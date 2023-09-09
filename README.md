@@ -17,4 +17,4 @@
 ### [Facebook](https://www.facebook.com/peek.ice)
 ### [Instragram](https://www.instagram.com/peek_ice)
 ### [Github](https://github.com/6410615097)
-### [Mail](peekice123@gmail.com)
+### <peekice123@gmail.com>

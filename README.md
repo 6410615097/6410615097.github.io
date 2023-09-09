@@ -10,7 +10,7 @@
 # About me
 
 ### I am a student of computer engineering at Thammasat University. I usually use Python and Java. Now I am studying HTML, CSS, and Javascripts.
-### My plan after graduation is to be a full-stack or back-end developer.
+### My plan after graduation is to become a full-stack or back-end developer.
 
 # Contract
 
